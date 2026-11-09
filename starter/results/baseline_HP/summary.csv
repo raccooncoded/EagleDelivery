@@ -1,0 +1,4 @@
+map,start,goal,seed,episodes,eval_episodes,max_steps,alpha,gamma,epsilon,slip,success_rate,mean_return,mean_steps_success
+/home/eventzero/Downloads/starter/maps/emu_campus.txt,H,P,0,2000,100,200,0.3,0.95,0.2,0.0,0.15,-184.31,135.4
+/home/eventzero/Downloads/starter/maps/emu_campus.txt,H,P,1,2000,100,200,0.3,0.95,0.2,0.0,0.13,-188.05,148.07692307692307
+/home/eventzero/Downloads/starter/maps/emu_campus.txt,H,P,2,2000,100,200,0.3,0.95,0.2,0.0,0.1,-188.48,124.8
